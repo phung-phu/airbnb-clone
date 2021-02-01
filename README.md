@@ -1,5 +1,5 @@
 # Project Description
-## [Airbnb Clone web app](https://airbnb-clone-21941.web.app/)
+## [Airbnb demo web app](https://airbnb-clone-21941.web.app/)
 
 This web app attempts to replicate the front-end web page of [Airbnb](https://www.airbnb.com/). The web app allows users to view different rentals, select dates, and explore places nearby.
 
